@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MacroGather'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = 'MacroGather.'
 
 # This description is used to generate tags and improve search results.
