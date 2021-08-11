@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'MacroGather_Example' do
+  pod 'MacroGather', :path => '../'
+
+  target 'MacroGather_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
