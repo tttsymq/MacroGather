@@ -1,6 +1,6 @@
 {
   "name": "MacroGather",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "MacroGather.",
   "description": "\"一些常用的宏的收集\"",
   "homepage": "https://github.com/cihui/MacroGather",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/cihui/MacroGather.git",
-    "tag": "0.1.1"
+    "tag": "0.1.2"
   },
   "platforms": {
     "ios": "9.0"

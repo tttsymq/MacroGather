@@ -1,5 +1,5 @@
 PODS:
-  - MacroGather (0.1.1)
+  - MacroGather (0.1.2)
 
 DEPENDENCIES:
   - MacroGather (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  MacroGather: 1c9dde4d6eedd2538c8f55e169d7ff831607341d
+  MacroGather: c2c3a3d390b201b674049f4dcd2dba31813819ee
 
 PODFILE CHECKSUM: 3da3b41d89d6ffb3496b0f875b3a4b16998ab9f0
 
