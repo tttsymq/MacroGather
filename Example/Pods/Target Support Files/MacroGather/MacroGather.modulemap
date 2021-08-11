@@ -1,0 +1,6 @@
+framework module MacroGather {
+  umbrella header "MacroGather-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - MacroGather (0.1.0)
+
+DEPENDENCIES:
+  - MacroGather (from `../`)
+
+EXTERNAL SOURCES:
+  MacroGather:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MacroGather: 37341107d8b25aa48f7ee4dfbc9be134245d3d49
+
+PODFILE CHECKSUM: 3da3b41d89d6ffb3496b0f875b3a4b16998ab9f0
+
+COCOAPODS: 1.10.1

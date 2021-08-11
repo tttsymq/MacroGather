@@ -1,0 +1,22 @@
+{
+  "name": "MacroGather",
+  "version": "0.1.0",
+  "summary": "A short description of MacroGather.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/cihui/MacroGather",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "cihui": "txwz8812@163.com"
+  },
+  "source": {
+    "git": "https://github.com/cihui/MacroGather.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "MacroGather/Classes/**/*"
+}
